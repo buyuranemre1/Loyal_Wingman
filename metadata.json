@@ -1,0 +1,8 @@
+{
+  "name": "LOYAL WINGMAN",
+  "description": "A rational, self-confidence-oriented, and pragmatic mentor for men, providing direct advice on communication and personal boundaries.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
